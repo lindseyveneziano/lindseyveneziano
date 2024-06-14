@@ -1,4 +1,5 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there! I’m Lindsey Veneziano, studying Computer Science at the City University of New York - College of Staten Island, and I'll be graduating in May 2025. I love coding, solving problems, and I'm always excited to learn new things and improve my skills.<br><br>
 
 <!--
 **lindseyveneziano/lindseyveneziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Lindsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindseyveneziano)](https://github.com/lindseyveneziano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindseyveneziano)](https://github.com/lindseyveneziano/github-readme-stats)
+
 -->
