@@ -57,6 +57,6 @@ Hi there! I'm Lindsey Veneziano, studying Computer Science at the City Universit
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindseyveneziano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindsey-veneziano)
 
 [![Resume](https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/lindseyveneziano/Docs/blob/main/Resume.pdf)
